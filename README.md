@@ -21,7 +21,7 @@ For the Huddle Landing page project, my main objective was to craft a visually a
 ![](./huddle-landing-page-with-single-introductory-section-master/design/desktop-design.jpg)
 
 ### Links
-- Live Site URL: [Click here](https://neel-07.github.io/Product-preview-card-component/)
+- Live Site URL: [Click here](https://neel-07.github.io/Huddle-landing-page/)
 
 ## My process
  In approaching this project, I began by carefully organizing the HTML structure to encapsulate the essential components of the huddle landing page. Emphasis was placed on creating a clean and semantic layout. Moving on to the CSS implementation, I concentrated on achieving visually appealing design elements and ensuring seamless responsiveness across various screen sizes. Significant attention was devoted to typography, color palettes, and layout considerations to ensure user-friendly and elegant design.
